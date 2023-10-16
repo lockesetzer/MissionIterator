@@ -8,7 +8,6 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using Microsoft.VisualBasic.FileIO;
 using System.Linq;
-//using CsvHelper;
 
 
 namespace MissionIterator
@@ -30,21 +29,6 @@ namespace MissionIterator
 
         static void Main(string[] args)
         {
-            
-            /*
-            using (var data = new StreamReader(dataStream))
-            using (var data_csv = new CsvReader(data, System.Globalization.CultureInfo.CurrentCulture))
-            {
-                var dataList = data_csv.GetRecords<MissionList>();
-
-                foreach (MissionList item in dataList)
-                {
-                    Console.WriteLine(item.ToString());
-                }
-            }
-
-            return;
-            */
 
             Boolean first = true;
 
@@ -86,7 +70,6 @@ namespace MissionIterator
 
                 else
                 {
-                    //String fileMission = fields[fields.Length - 2] + "\\" + fields[fields.Length - 1];
                     String fileMission = fields[fields.Length - 1];
 
                     Console.WriteLine(fileMission);
