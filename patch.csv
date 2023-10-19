@@ -1,0 +1,407 @@
+ID,Name,Uses Slot,Prerequisite ID,Platform,Type,Fleet Manual,Creator,3D Artist,2D Artist,Date released,Date updated,Number of craft,Custom cockpit,# Reviews,# Bugs,# Usages
+6,M/FRT the Luggage,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #2,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/17/2009,1,No,0,0,6
+7,X-Wing vs. TIE Fighter 1.14 (3DFX),n/a,n/a,X-Wing vs. TIE Fighter,General,,Lucas Arts / Totally Games,,,10/28/1997,11/1/2012,0,No,1,0,0
+8,EH Ship Patch for XvT,n/a,n/a,X-Wing vs. TIE Fighter,General,,HA Ender mBind,CPT Tim,COL Zeth Durron,2/17/2009,4/27/2014,25,Yes,0,4,212
+9,EH Ship Patch for BoP,n/a,8,XvT - Balance of Power,General,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,4/27/2014,16,Yes,0,2,24
+10,X-Wing Alliance 2.02,n/a,n/a,X-Wing Alliance,General,,Lucas Arts / Totally Games,,,6/29/1999,11/1/2012,0,No,0,0,0
+11,A-9 Vigilance Interceptor,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #137,COL Kermee,HA Ender mBind,HA Ender mBind,2/7/2000,2/20/2009,1,No,0,0,1
+12,Gamma-class Assault Shuttle,39,8,X-Wing vs. TIE Fighter,Transport,Fleet Manual #24,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,11/11/2013,1,No,0,1,1
+13,Asteroid Mining Unit,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #120,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/17/2009,1,No,0,0,1
+14,Authority IRD,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #12,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/17/2009,1,No,0,0,1
+15,Azzameen Family Base,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #78,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/28/2013,1,No,0,0,1
+16,Bulk Cruiser,39,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #151,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,3
+17,Captivator-2,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/20/2009,1,No,0,0,0
+18,Cargo Facility 1,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #73,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,0
+19,Cargo Facility 2,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #74,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,0
+20,Civilian Pilot,85,8,X-Wing vs. TIE Fighter,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/17/2009,1,No,0,0,0
+21,Cloakshape Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #13,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/18/2009,1,No,1,0,2
+22,Corellian Transport YT-2000,39,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #31,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/19/2009,1,No,0,0,1
+23,Corellian Transport YT-2400,39,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #32,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/18/2009,1,No,0,0,1
+24,Cyciliac Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,CPT Tim,HA Ender mBind,2/17/2009,2/20/2009,1,No,0,0,2
+25,Delta-7 Aethersprite,11,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/20/2009,1,No,0,0,1
+26,Derilyn Platform,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #76,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,1
+27,Doomsday Corvette,31,8,X-Wing vs. TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,2/20/2009,1,No,0,0,1
+28,Dreadnaught Mk.I,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #114,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,1
+29,Dunari's Rest (Casino),54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #77,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,1
+30,Dungeon Ship,39,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #147,COL Kermee,LT JMRabid,LT JMRabid,2/17/2009,2/20/2009,1,No,0,0,2
+31,Enforcer Picket Ship,39,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #115,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/28/2013,1,No,0,0,2
+32,Escape Pod,39,8,X-Wing vs. TIE Fighter,Utility,Fleet Manual #21,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,0
+33,Escape Pod Deluxe,39,8,X-Wing vs. TIE Fighter,Utility,Fleet Manual #20,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/27/2013,1,No,0,0,1
+34,E-Wing,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #140,COL Kermee,unknown,unknown,2/16/2009,11/8/2013,1,No,0,0,5
+35,Azzameen Family Repair Yard,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #79,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/28/2013,1,No,0,0,1
+36,Ferryboat Liner,39,8,X-Wing vs. TIE Fighter,Transport,Fleet Manual #34,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/28/2013,1,No,0,0,1
+37,Firespray Attack Ship,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,11/8/2013,1,No,0,0,3
+38,Freighter Type C,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #60,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,1
+39,Freighter Type H,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #61,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,1
+40,Freighter Type K,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #62,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,1
+41,Golan I Space Station,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #80,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,0
+42,Golan II Space Station,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #81,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,1
+43,Golan III Space Station,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #82,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,10/31/2013,1,No,0,0,1
+44,Hyperion Interceptor Gunboat,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #107,COL Den Darkhill,COL Den Darkhill,HA Ender mBind,2/17/2009,10/31/2012,1,No,0,0,1
+45,I-7 Howlrunner,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #104,COL Den Darkhill,JM,JM,2/17/2009,10/31/2013,1,No,0,0,1
+46,Imperial Landing Craft,39,8,X-Wing vs. TIE Fighter,Transport,Fleet Manual #26,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,3/29/2014,1,No,0,0,1
+47,Imperial Research Center,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #83,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,0
+48,Imperial Research Ship,39,8,X-Wing vs. TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,1,0
+49,Imperial Shuttle Pod Mk.VI,11,8,X-Wing vs. TIE Fighter,Utility,Fleet Manual #90,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,Yes,0,0,1
+50,Imperial II-class Star Destroyer,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #142,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,1
+51,Imperial Troop Transport,31,8,X-Wing vs. TIE Fighter,Transport,Fleet Manual #103,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,3/28/2009,1,No,0,0,1
+52,Industrial Complex,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #84,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,1
+53,Interceptor Enforcement Ship,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #102,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2012,1,Yes,1,1,3
+54,K-Wing,11,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,unknown,unknown,2/18/2009,10/31/2013,1,No,0,0,4
+55,Lancer-class Frigate,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #153,HA Ender mBind,CPT Tim,CPT Tim,2/18/2009,10/31/2013,1,No,0,1,1
+56,Luxury Yacht 3000,39,8,X-Wing vs. TIE Fighter,Transport,Fleet Manual #27,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,0
+57,Marauder-class Corvette,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #117,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,2
+58,MC80a Calamari Cruiser,39,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #149,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,1
+59,Millenium Falcon,39,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #30,HA Ender mBind,N/A,N/A,2/18/2009,11/1/2013,1,No,0,0,0
+60,Missileboat Mk.I,12,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #160,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,1
+61,MK-90 Droid,74,8,X-Wing vs. TIE Fighter,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/27/2013,1,No,0,0,0
+62,Mobquet Transport,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #57,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/1/2013,1,No,0,0,0
+63,Modified Action Transport,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #58,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/1/2013,1,No,0,0,1
+64,Modified Strike-class Cruiser,51,8,X-Wing vs. TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/1/2013,1,No,0,0,5
+65,Modular Task Force Cruiser,39,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #155,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/20/2009,1,No,0,1,3
+66,Mole Miner,39,8,X-Wing vs. TIE Fighter,Utility,Fleet Manual #71,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/27/2013,1,No,0,0,1
+67,Moving Asteroid (Slot 10),10,8,X-Wing vs. TIE Fighter,Object,,HA Ender mBind,,,2/18/2009,2/18/2009,1,No,0,0,1
+68,Mu-2 Long Range Shuttle,39,8,X-Wing vs. TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/20/2009,1,No,0,0,1
+69,Naval Base,54,8,X-Wing vs. TIE Fighter,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/2/2013,1,No,0,0,3
+70,Naval Defence Platform,31,8,X-Wing vs. TIE Fighter,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/20/2009,1,No,0,1,2
+71,Phalanx Interceptor Gunboat,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #139,COL Kermee,HA Ender mBind,HA Ender mBind,2/18/2009,2/20/2009,1,Yes,0,0,1
+72,Pinook Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/3/2013,1,No,0,0,1
+73,Pirate Ship Yard,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #89,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/4/2013,1,No,0,0,0
+74,Planetary Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #14,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/18/2013,1,Yes,0,0,1
+75,Preybird-class Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/18/2013,1,No,0,0,1
+76,Processing Plant,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #85,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/4/2013,1,No,0,0,1
+77,Razor-class Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/18/2013,1,No,0,0,1
+78,Rebel Pilot,85,8,X-Wing vs. TIE Fighter,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/18/2009,1,No,0,0,0
+79,Rebel Platform,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #86,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/4/2013,1,No,0,0,1
+80,Rotonda Platform,54,8,X-Wing vs. TIE Fighter,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/19/2009,1,No,0,0,1
+81,Shadow-class Y-Wing,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #131,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/4/2013,1,Yes,0,0,1
+82,Skipray Blastboat,11,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/18/2013,1,No,0,0,2
+83,Space Colony 1,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #92,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/5/2013,1,No,0,0,0
+84,Space Colony 2,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #93,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/5/2013,1,No,0,0,0
+85,Space Colony 3,54,8,X-Wing vs. TIE Fighter,Platform,Fleet Manual #94,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/5/2013,1,No,0,0,0
+86,Spectre Advanced Missile Boat,12,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #108,COL Kermee,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2012,1,No,0,0,1
+87,Star Galleon,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #152,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/5/2013,1,No,0,0,0
+88,Supa Fighter,11,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/7/2013,1,No,0,0,1
+89,Suprosa,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #63,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/1/2013,1,No,0,0,0
+90,Tactical Gunboat,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #130,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2012,1,Yes,0,0,5
+91,TIE Advanced x1,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #127,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/7/2013,1,No,0,0,1
+92,TIE Assault,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #9,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/7/2013,1,No,0,1,2
+93,TIE Boarding Craft,11,8,X-Wing vs. TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/7/2013,1,No,0,0,1
+94,TIE Crimson,10,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,1,1
+95,TIE Dragon,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #132,COL Kermee,HA Ender mBind,HA Ender mBind,2/17/2009,11/8/2013,1,No,0,0,1
+96,TIE Drone,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #39,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/17/2009,11/8/2013,1,No,0,1,1
+97,TIE Experimental Mk.I,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #11,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,0,5
+98,TIE Experimental Mk.II,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #21,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,0,1
+99,TIE Experimental Mk.III,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #22,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,0,1
+100,TIE Experimental Mk.IV,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #23,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,0,0
+101,TIE Experimental Mk.V,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #24,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,0,0
+102,TIE Guardian,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #136,COL Kermee,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2012,1,No,0,0,2
+103,TIE Praetor,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #138,COL Kermee,HA Ender mBind,HA Ender mBind,2/17/2009,11/8/2013,1,Yes,1,0,15
+104,TIE Protector,12,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #129,COL Kermee,HA Ender mBind,HA Ender mBind,2/17/2009,11/8/2013,1,Yes,0,0,1
+105,TIE Raptor,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #105,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/9/2013,1,No,0,0,0
+106,TIE Scimitar Assault Bomber Mk.III,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #135,COL Kermee,unknown,unknown,2/17/2009,11/9/2013,1,No,0,0,2
+107,TIE Sentinel/V38,11,8,X-Wing vs. TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/7/2013,1,Yes,0,1,2
+108,TIE Shuttle,10,8,X-Wing vs. TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/9/2013,1,No,0,0,0
+109,TIE Vanguard,11,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #10,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/20/2009,1,No,0,0,2
+110,Torpedo Sphere,39,8,X-Wing vs. TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,2/19/2009,1,No,0,0,1
+111,Toscan Fighter,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #15,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/9/2013,1,Yes,0,2,4
+112,Venator-class Star Destroyer,31,8,X-Wing vs. TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/5/2013,1,No,0,1,2
+113,Victory II-class Star Destroyer,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #158,HA Ender mBind,N/A,N/A,2/18/2009,11/9/2013,1,No,0,0,0
+114,V-Wing Mk.II,10,8,X-Wing vs. TIE Fighter,Fighter,Fleet Manual #159,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/9/2013,1,Yes,0,0,1
+115,Winged Calamari Cruiser,31,8,X-Wing vs. TIE Fighter,Capship,Fleet Manual #150,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/31/2013,1,No,0,0,1
+116,Xiytiar-class Transport,31,8,X-Wing vs. TIE Fighter,Freighter,Fleet Manual #64,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/9/2013,1,No,0,0,0
+117,Zero-G Stormtrooper,11,8,X-Wing vs. TIE Fighter,Utility,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/27/2013,1,No,0,0,0
+118,Zero-G Utility,31,8,X-Wing vs. TIE Fighter,Utility,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,10/27/2013,1,No,0,0,0
+119,A-9 Vigilance Interceptor,11,9,XvT - Balance of Power,Fighter,Fleet Manual #137,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,0,0
+120,Gamma-class Assault Shuttle,39,9,XvT - Balance of Power,Transport,Fleet Manual #24,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/11/2013,1,No,0,0,0
+121,Asteroid Mining Unit,39,8,XvT - Balance of Power,Platform,Fleet Manual #120,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+122,Authority IRD,11,9,XvT - Balance of Power,Fighter,Fleet Manual #12,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+123,Azzameen Family Base,54,9,XvT - Balance of Power,Platform,Fleet Manual #78,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/28/2013,1,No,0,0,0
+124,Bulk Cruiser,39,9,XvT - Balance of Power,Capship,Fleet Manual #151,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+125,Captivator-2,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,0,0
+126,Cloakshape Fighter,10,9,XvT - Balance of Power,Fighter,Fleet Manual #13,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+127,Cyciliac Fighter,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,CPT Tim,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,0,0
+128,Delta-7 Aethersprite,11,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,1,1
+129,E-Wing,10,9,XvT - Balance of Power,Fighter,Fleet Manual #140,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/18/2009,11/8/2013,1,No,0,0,0
+130,Firespray Attack Ship ,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,1,1
+131,Hyperion Interceptor Gunboat,11,9,XvT - Balance of Power,Fighter,Fleet Manual #107,COL Den Darkhill,COL Den Darkhill,HA Ender mBind,2/19/2009,10/31/2012,1,No,0,0,0
+132,I-7 Howlrunner,10,9,XvT - Balance of Power,Fighter,Fleet Manual #104,COL Den Darkhill,JM,JM,2/19/2009,10/31/2013,1,No,0,0,0
+133,Interceptor Enforcement Ship,10,9,XvT - Balance of Power,Fighter,Fleet Manual #102,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2012,1,Yes,0,0,0
+134,K-Wing,11,9,XvT - Balance of Power,Fighter,,HA Ender mBind,unknown,unknown,2/19/2009,10/31/2013,1,No,0,0,0
+135,Missileboat Mk.I,12,9,XvT - Balance of Power,Fighter,Fleet Manual #160,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+136,Phalanx Interceptor Gunboat,10,9,XvT - Balance of Power,Fighter,Fleet Manual #139,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,Yes,0,0,1
+137,Pinook Fighter,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/3/2013,1,No,0,0,0
+138,Planetary Fighter,10,9,XvT - Balance of Power,Fighter,Fleet Manual #14,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/18/2013,1,Yes,0,0,0
+139,Civilian Pilot,85,9,XvT - Balance of Power,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+140,MK-90 Droid,74,9,XvT - Balance of Power,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+141,Rebel Pilot,85,9,XvT - Balance of Power,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+142,Escape Pod,39,9,XvT - Balance of Power,Utility,Fleet Manual #21,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+143,Escape Pod Deluxe,39,9,XvT - Balance of Power,Utility,Fleet Manual #20,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+144,Imperial Shuttle Pod Mk.VI,11,9,XvT - Balance of Power,Utility,Fleet Manual #90,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,Yes,0,0,0
+145,Mole Miner,39,9,XvT - Balance of Power,Utility,Fleet Manual #71,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+146,Zero-G Stormtrooper,11,9,XvT - Balance of Power,Utility,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+147,Zero-G Utility,11,9,XvT - Balance of Power,Utility,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/27/2013,1,No,0,0,0
+148,Imperial Landing Craft,39,9,XvT - Balance of Power,Transport,Fleet Manual #26,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,3/29/2014,1,No,0,0,0
+149,Imperial Troop Transport,31,9,XvT - Balance of Power,Transport,Fleet Manual #103,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,3/28/2009,1,No,0,0,0
+150,Luxury Yacht 3000,39,9,XvT - Balance of Power,Transport,Fleet Manual #27,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+151,Mu-2 Long Range Shuttle,39,9,XvT - Balance of Power,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,0,0
+152,TIE Boarding Craft,11,9,XvT - Balance of Power,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/7/2013,1,No,0,0,0
+153,TIE Shuttle ,10,9,XvT - Balance of Power,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/9/2013,1,No,0,0,0
+154,Corellian Transport YT-2000,39,9,XvT - Balance of Power,Freighter,Fleet Manual #31,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+155,Corellian Transport YT-2400,39,9,XvT - Balance of Power,Freighter,Fleet Manual #32,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+156,Ferryboat Liner,39,9,XvT - Balance of Power,Transport,Fleet Manual #34,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/28/2013,1,No,0,0,0
+157,Freighter Type C,31,9,XvT - Balance of Power,Freighter,Fleet Manual #60,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+158,Freighter Type H,31,9,XvT - Balance of Power,Freighter,Fleet Manual #61,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+159,Freighter Type K,31,9,XvT - Balance of Power,Freighter,Fleet Manual #62,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+160,M/FRT the Luggage,31,9,XvT - Balance of Power,Freighter,Fleet Manual #2,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+161,Millenium Falcon,39,9,XvT - Balance of Power,Freighter,Fleet Manual #30,HA Ender mBind,N/A,N/A,2/19/2009,11/1/2013,1,No,0,0,0
+162,Mobquet Transport,31,9,XvT - Balance of Power,Freighter,Fleet Manual #57,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/1/2013,1,No,0,0,0
+163,Modified Action Transport,31,9,XvT - Balance of Power,Freighter,Fleet Manual #58,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/1/2013,1,No,0,0,0
+164,Suprosa,31,9,XvT - Balance of Power,Freighter,Fleet Manual #63,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/1/2013,1,No,0,0,0
+165,Xiytiar-class Transport,31,9,XvT - Balance of Power,Freighter,Fleet Manual #64,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/9/2013,1,No,0,0,0
+166,Doomsday Corvette,31,9,XvT - Balance of Power,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,0,0
+167,Dreadnaught Mk.II,31,9,XvT - Balance of Power,Capship,Fleet Manual #114,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+168,Enforcer Picket Ship,39,9,XvT - Balance of Power,Capship,Fleet Manual #115,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/28/2013,1,No,0,0,0
+169,Imperial Research Ship,39,9,XvT - Balance of Power,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,1,0
+170,Imperial II-class Star Destroyer,31,9,XvT - Balance of Power,Capship,Fleet Manual #142,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+171,Lancer-class Frigate,31,9,XvT - Balance of Power,Capship,Fleet Manual #153,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+172,Marauder-class Corvette,31,9,XvT - Balance of Power,Capship,Fleet Manual #117,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+173,MC80a Calamari Cruiser,39,9,XvT - Balance of Power,Capship,Fleet Manual #149,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+174,MC90 Calamari Cruiser,54,9,XvT - Balance of Power,Capship,Fleet Manual #143,HA Ender mBind,JM,JM,2/19/2009,10/31/2013,1,No,0,0,0
+175,Modular Task Force Cruiser,39,9,XvT - Balance of Power,Capship,Fleet Manual #155,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/20/2009,1,No,0,0,0
+176,Star Galleon,31,9,XvT - Balance of Power,Capship,Fleet Manual #152,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/5/2013,1,No,0,0,0
+177,Torpedo Sphere,39,9,XvT - Balance of Power,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,2/19/2009,1,No,0,0,0
+178,Venator-class Star Destroyer,31,9,XvT - Balance of Power,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/5/2013,1,No,0,0,1
+179,Victory II-class Star Destroyer,31,9,XvT - Balance of Power,Capship,Fleet Manual #158,HA Ender mBind,N/A,N/A,2/19/2009,11/9/2013,1,No,0,0,0
+180,Winged Calamari Cruiser,31,9,XvT - Balance of Power,Capship,Fleet Manual #150,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,10/31/2013,1,No,0,0,0
+181,Eclipse-class S. Star Destroyer Mk.I,54,9,XvT - Balance of Power,Capship,,HA Ender mBind,Dreddnott,Dreddnott,2/18/2009,10/31/2013,1,No,0,0,0
+182,Eclipse-class S. Star Destroyer Mk.II,54,9,XvT - Balance of Power,Capship,Fleet Manual #141,HA Ender mBind,JM,JM,2/18/2009,10/31/2013,1,No,0,0,0
+183,Sovereign-class Super Star Destroyer,54,9,XvT - Balance of Power,Capship,Fleet Manual #144,HA Ender mBind,Drakken,Drakken,2/18/2009,11/4/2013,1,No,0,0,0
+184,Cargo Facility 1,54,9,XvT - Balance of Power,Platform,Fleet Manual #73,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/27/2013,1,No,0,0,0
+185,Cargo Facility 2,54,9,XvT - Balance of Power,Platform,Fleet Manual #74,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/27/2013,1,No,0,0,0
+186,Derilyn Platform,54,9,XvT - Balance of Power,Platform,Fleet Manual #76,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/27/2013,1,No,0,0,0
+187,Dunari's Rest (Casino),54,9,XvT - Balance of Power,Platform,Fleet Manual #77,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/27/2013,1,No,0,0,0
+188,Azzameen Family Repair Yard,54,9,XvT - Balance of Power,Platform,Fleet Manual #79,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/28/2013,1,No,0,0,0
+189,Golan I Space Station,54,9,XvT - Balance of Power,Platform,Fleet Manual #80,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/31/2013,1,No,0,0,0
+190,Golan II Space Station,54,9,XvT - Balance of Power,Platform,Fleet Manual #81,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/31/2013,1,No,0,0,0
+191,Golan III Space Station,54,9,XvT - Balance of Power,Platform,Fleet Manual #82,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/31/2013,1,No,0,0,1
+192,Imperial Research Center,54,9,XvT - Balance of Power,Platform,Fleet Manual #83,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/31/2013,1,No,0,0,0
+193,Industrial Complex,54,9,XvT - Balance of Power,Platform,Fleet Manual #84,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,10/31/2013,1,No,0,0,0
+194,Naval Base,54,9,XvT - Balance of Power,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/2/2013,1,No,0,0,0
+195,Naval Defence Platform,31,9,XvT - Balance of Power,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,2/20/2009,1,No,0,1,0
+196,Pirate Ship Yard,54,9,XvT - Balance of Power,Platform,Fleet Manual #89,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/4/2013,2883,No,0,0,0
+197,Processing Plant ,54,9,XvT - Balance of Power,Platform,Fleet Manual #85,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/4/2013,1,No,0,0,0
+198,Rebel Platform,54,9,XvT - Balance of Power,Platform,Fleet Manual #86,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/4/2013,1,No,0,0,0
+199,Rotonda Platform,54,9,XvT - Balance of Power,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,2/20/2009,1,No,0,0,0
+200,Space Colony 1,54,9,XvT - Balance of Power,Platform,Fleet Manual #92,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/5/2013,1,No,0,0,0
+201,Space Colony 2,54,9,XvT - Balance of Power,Platform,Fleet Manual #93,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/5/2013,1,No,0,0,0
+202,Space Colony 3,54,9,XvT - Balance of Power,Platform,Fleet Manual #94,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,11/5/2013,1,No,0,0,0
+203,Preybird-class Fighter,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/1/2003,11/18/2013,1,No,0,0,0
+204,Razor-class Fighter,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,10/19/2003,11/18/2013,1,No,0,0,0
+205,Shadow-class Y-Wing,11,9,XvT - Balance of Power,Fighter,Fleet Manual #131,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/13/2003,11/4/2013,1,No,0,0,0
+206,Skipray Blastboat,11,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2003,11/18/2013,1,No,0,0,0
+207,Spectre Advanced Missile Boat,12,9,XvT - Balance of Power,Fighter,Fleet Manual #108,COL Kermee,HA Ender mBind,HA Ender mBind,12/28/2003,10/31/2012,1,No,0,1,2
+208,Supa Fighter,11,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,9/1/2002,11/7/2013,1,No,0,0,0
+209,Tactical Gunboat,10,9,XvT - Balance of Power,Fighter,Fleet Manual #130,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/6/2003,10/31/2012,1,Yes,0,0,0
+210,TIE Advanced x1,11,9,XvT - Balance of Power,Fighter,Fleet Manual #127,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/7/2013,1,No,0,0,0
+211,TIE Assault,10,9,XvT - Balance of Power,Fighter,Fleet Manual #9,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/7/2013,1,No,0,0,0
+212,TIE Crimson,10,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,0
+213,TIE Dragon,11,9,XvT - Balance of Power,Fighter,Fleet Manual #132,COL Kermee,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,1
+214,TIE Drone,10,9,XvT - Balance of Power,Fighter,Fleet Manual #39,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,1,0
+215,TIE Experimental Mk.I,11,9,XvT - Balance of Power,Fighter,Fleet Manual #11,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,0
+216,TIE Experimental Mk.II,10,9,XvT - Balance of Power,Fighter,Fleet Manual #121,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,0
+217,TIE Experimental Mk.III,11,9,XvT - Balance of Power,Fighter,Fleet Manual #122,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,0
+218,TIE Experimental Mk.IV,10,9,XvT - Balance of Power,Fighter,Fleet Manual #123,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,0
+219,TIE Experimental Mk.V,11,9,XvT - Balance of Power,Fighter,Fleet Manual #124,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,No,0,0,0
+220,TIE Guardian,10,9,XvT - Balance of Power,Fighter,Fleet Manual #136,COL Kermee,HA Ender mBind,HA Ender mBind,2/20/2009,10/31/2012,1,No,0,0,0
+221,TIE Praetor,10,9,XvT - Balance of Power,Fighter,Fleet Manual #138,COL Kermee,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,Yes,0,3,1
+222,TIE Protector,12,9,XvT - Balance of Power,Fighter,Fleet Manual #129,COL Kermee,HA Ender mBind,HA Ender mBind,2/19/2009,11/8/2013,1,Yes,0,0,0
+223,TIE Raptor,10,9,XvT - Balance of Power,Fighter,Fleet Manual #105,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/9/2013,1,No,0,0,0
+224,TIE Scimitar Assault Bomber Mk.III,11,9,XvT - Balance of Power,Fighter,Fleet Manual #135,COL Kermee,unknown,unknown,2/19/2009,11/9/2013,1,No,0,0,0
+225,TIE Sentinel/V38,11,9,XvT - Balance of Power,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/7/2013,1,Yes,0,0,0
+226,TIE Vanguard,11,9,XvT - Balance of Power,Fighter,Fleet Manual #10,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/20/2009,2/20/2009,1,No,0,0,0
+227,Toscan Fighter,10,9,XvT - Balance of Power,Fighter,Fleet Manual #15,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/9/2013,1,Yes,0,1,0
+228,V-Wing Mk.II,10,9,XvT - Balance of Power,Fighter,Fleet Manual #159,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/19/2009,11/9/2013,1,Yes,0,0,0
+229,Dungeon Ship,39,9,XvT - Balance of Power,Capship,Fleet Manual #147,COL Kermee,LT JMRabid,LT JMRabid,2/20/2009,2/20/2009,1,No,0,0,0
+230,TIE Fighter '95 Compatibility Fix,n/a,n/a,TIE Fighter,General,,Cwagle The Jedi,,,7/27/2004,2/28/2009,0,No,0,0,0
+231,EH Ship Patch for TIE '95,n/a,n/a,TIE Fighter,General,,HA Ender mBind,HA Ender mBind,HA Ender mBind,11/1/2003,4/27/2014,13,Yes,0,4,96
+232,Civilian Pilot,85,231,TIE Fighter,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,2/28/2009,1,No,0,0,0
+233,Rebel Pilot,85,231,TIE Fighter,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,2/28/2009,1,No,0,0,0
+234,MK-90 Droid,74,231,TIE Fighter,Object,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/27/2013,1,No,0,0,0
+235,Escape Pod,39,231,TIE Fighter,Utility,Fleet Manual #21,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/27/2013,1,No,0,0,0
+236,Escape Pod Deluxe,39,231,TIE Fighter,Utility,Fleet Manual #20,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/27/2013,1,No,0,0,0
+237,Imperial Shuttle Pod Mk.VI,11,231,TIE Fighter,Utility,Fleet Manual #90,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/31/2013,1,Yes,0,0,0
+238,Mole Miner,39,231,TIE Fighter,Utility,Fleet Manual #71,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/27/2013,1,No,0,0,0
+239,Zero-G Stormtrooper,11,231,TIE Fighter,Utility,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/27/2013,1,No,0,0,0
+240,Zero-G Utility,39,231,TIE Fighter,Utility,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/27/2013,1,No,0,0,0
+241,Gamma-class Assault Shuttle,39,231,TIE Fighter,Transport,Fleet Manual #24,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/11/2013,1,No,0,0,0
+242,Imperial Landing Craft,39,231,TIE Fighter,Transport,Fleet Manual #26,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,3/29/2014,1,No,0,0,0
+243,Imperial Troop Transport,31,231,TIE Fighter,Transport,Fleet Manual #103,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,3/28/2009,1,No,0,0,0
+244,Luxury Yacht 3000,39,231,TIE Fighter,Transport,Fleet Manual #27,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/31/2013,1,No,0,0,0
+245,Mu-2 Long Range Shuttle,39,231,TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,2/28/2009,1,No,0,0,0
+246,TIE Boarding Craft,11,231,TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/7/2013,1,No,0,0,0
+247,TIE Shuttle,10,231,TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/9/2013,1,No,0,0,0
+248,Corellian Transport YT-2000,39,231,TIE Fighter,Freighter,Fleet Manual #31,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,2/28/2009,1,No,0,0,0
+249,Corellian Transport YT-2400,39,231,TIE Fighter,Freighter,Fleet Manual #32,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,2/28/2009,1,No,0,0,0
+250,Ferryboat Liner,39,231,TIE Fighter,Transport,Fleet Manual #34,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/28/2013,1,No,0,0,0
+251,Freighter Type C,31,231,TIE Fighter,Freighter,Fleet Manual #60,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/31/2013,1,No,0,0,0
+252,Freighter Type H,31,231,TIE Fighter,Freighter,Fleet Manual #61,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/31/2013,1,No,0,0,0
+253,Freighter Type K,31,231,TIE Fighter,Freighter,Fleet Manual #62,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,10/31/2013,1,No,0,0,0
+254,M/FRT the Luggage,31,231,TIE Fighter,Freighter,Fleet Manual #2,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2009,2/28/2009,1,No,0,0,1
+255,Millenium Falcon,39,231,TIE Fighter,Freighter,Fleet Manual #30,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/1/2013,1,No,0,0,0
+256,Mobquet Transport,31,231,TIE Fighter,Freighter,Fleet Manual #57,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/1/2013,1,No,0,0,0
+257,Modified Action Transport,31,231,TIE Fighter,Freighter,Fleet Manual #58,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/1/2013,1,No,0,0,0
+258,Suprosa,31,231,TIE Fighter,Freighter,Fleet Manual #63,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/1/2013,1,No,0,0,0
+259,Xiytiar-class Transport,31,231,TIE Fighter,Freighter,Fleet Manual #64,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/27/2009,11/9/2013,1,No,0,0,0
+260,A-9 Vigilance Interceptor,11,231,TIE Fighter,Fighter,Fleet Manual #137,COL Kermee,HA Ender mBind,HA Ender mBind,3/1/2009,11/17/2016,1,No,0,0,11
+261,Authority IRD,11,231,TIE Fighter,Fighter,Fleet Manual #12,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,3/2/2009,1,No,0,0,0
+262,Captivator-2,10,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,3/2/2009,1,No,0,0,0
+263,Cloakshape Fighter,10,231,TIE Fighter,Fighter,Fleet Manual #13,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,3/13/2009,1,No,0,0,0
+264,Cyciliac Fighter,10,231,TIE Fighter,Fighter,,HA Ender mBind,CPT Tim,HA Ender mBind,3/2/2009,3/2/2009,1,No,0,0,0
+265,Delta-7 Aethersprite,11,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,3/2/2009,1,No,0,0,0
+266,E-Wing,10,231,TIE Fighter,Fighter,Fleet Manual #140,COL Kermee,unknown,unknown,3/1/2009,11/8/2013,1,No,0,0,1
+267,Firespray Attack Ship,10,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,1
+268,Hyperion Interceptor Gunboat,11,231,TIE Fighter,Fighter,Fleet Manual #107,COL Den Darkhill,COL Den Darkhill,HA Ender mBind,3/2/2009,10/31/2012,1,No,0,0,1
+269,I-7 Howlrunner,10,231,TIE Fighter,Fighter,Fleet Manual #104,COL Den Darkhill,JM,JM,3/1/2009,10/31/2013,1,No,0,0,1
+270,Interceptor Enforcement Ship,10,231,TIE Fighter,Fighter,Fleet Manual #102,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2012,1,No,0,0,1
+271,K-Wing,11,231,TIE Fighter,Fighter,,COL Kermee,unknown,unknown,3/1/2009,10/31/2013,1,No,0,0,0
+272,K-20b Advanced Missile Boat,12,231,TIE Fighter,Fighter,,CM Var Zoraan,,,7/14/2000,3/13/2009,1,No,0,0,1
+273,Missileboat Mk.II,12,231,TIE Fighter,Fighter,Fleet Manual #7,HA Ender mBind,,,3/1/2009,10/31/2013,1,No,0,0,0
+274,Phalanx Interceptor Gunboat,10,231,TIE Fighter,Fighter,Fleet Manual #139,COL Kermee,HA Ender mBind,HA Ender mBind,3/2/2009,3/13/2009,1,No,0,0,2
+275,Pinook Fighter,10,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/3/2013,1,No,0,0,1
+276,Planetary Fighter,10,231,TIE Fighter,Fighter,Fleet Manual #14,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/18/2013,1,Yes,0,0,0
+277,Preybird-class Fighter,10,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/18/2013,1,No,0,0,0
+278,Razor-class Fighter,10,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/18/2013,1,No,0,0,0
+279,Shadow-class Y-Wing,11,231,TIE Fighter,Fighter,Fleet Manual #131,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/4/2013,1,No,0,0,0
+280,Skipray Blastboat,11,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/18/2013,1,No,0,0,1
+281,Spectre Advanced Missile Boat,12,231,TIE Fighter,Fighter,Fleet Manual #108,COL Kermee,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2012,1,No,0,0,0
+282,Supa Fighter,11,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/7/2013,1,No,0,0,1
+283,Tactical Gunboat ,10,231,TIE Fighter,Fighter,Fleet Manual #130,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2012,1,Yes,0,0,0
+284,TIE Advanced x1,11,231,TIE Fighter,Fighter,Fleet Manual #127,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/7/2013,1,No,0,0,0
+285,TIE Assault,10,231,TIE Fighter,Fighter,Fleet Manual #9,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/7/2013,1,No,0,0,0
+286,TIE Crimson,10,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,0
+287,TIE Dragon,11,231,TIE Fighter,Fighter,Fleet Manual #132,COL Kermee,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,1,0,8
+288,TIE Drone,10,231,TIE Fighter,Fighter,Fleet Manual #39,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,1,2
+289,TIE Experimental Mk.I,11,231,TIE Fighter,Fighter,Fleet Manual #11,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,2
+290,TIE Experimental Mk.II,10,231,TIE Fighter,Fighter,Fleet Manual #121,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,0
+291,TIE Experimental Mk.III,11,231,TIE Fighter,Fighter,Fleet Manual #122,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,0
+292,TIE Experimental Mk.IV,10,231,TIE Fighter,Fighter,Fleet Manual #123,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,0
+293,TIE Experimental Mk.V,11,231,TIE Fighter,Fighter,Fleet Manual #124,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,0
+294,TIE Guardian,11,231,TIE Fighter,Fighter,Fleet Manual #136,COL Kermee,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2012,1,No,0,0,0
+295,TIE Praetor,11,231,TIE Fighter,Fighter,Fleet Manual #138,COL Kermee,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,Yes,0,0,5
+296,TIE Protector,12,231,TIE Fighter,Fighter,Fleet Manual #129,COL Kermee,HA Ender mBind,HA Ender mBind,3/1/2009,11/8/2013,1,No,0,0,0
+297,TIE Raptor,10,231,TIE Fighter,Fighter,Fleet Manual #105,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/9/2013,1,No,0,0,0
+298,TIE Scimitar Assault Bomber Mk.III,11,231,TIE Fighter,Fighter,Fleet Manual #135,COL Kermee,LT JMRabid,LT JMRabid,3/1/2009,11/9/2013,1,No,0,0,0
+299,TIE Sentinel/V38,11,231,TIE Fighter,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/7/2013,1,No,0,0,0
+300,TIE Vanguard ,11,231,TIE Fighter,Fighter,Fleet Manual #10,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,3/2/2009,1,No,0,0,0
+301,Toscan Fighter,10,231,TIE Fighter,Fighter,Fleet Manual #15,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/9/2013,1,No,0,1,2
+302,V-Wing Mk.II,10,231,TIE Fighter,Fighter,Fleet Manual #159,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/1/2009,11/9/2013,1,Yes,0,0,1
+303,Asteroid Mining Unit,54,231,TIE Fighter,Platform,Fleet Manual #120,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/3/2009,3/3/2009,1,No,0,0,0
+304,Azzameen Family Base,54,231,TIE Fighter,Platform,Fleet Manual #78,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/28/2013,1,No,0,0,1
+305,Cargo Facility 1,54,231,TIE Fighter,Platform,Fleet Manual #73,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/27/2013,1,No,0,0,0
+306,Cargo Facility 2 ,54,231,TIE Fighter,Platform,Fleet Manual #74,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/27/2013,1,No,0,0,1
+307,Derilyn Platform,54,231,TIE Fighter,Platform,Fleet Manual #76,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/27/2013,1,No,0,0,0
+308,Dunari's Rest (Casino),54,231,TIE Fighter,Platform,Fleet Manual #77,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/27/2013,1,No,0,0,1
+309,Azzameen Family Repair Yard,54,231,TIE Fighter,Platform,Fleet Manual #79,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/28/2013,1,No,0,0,0
+310,Golan I Space Station,39,231,TIE Fighter,Platform,Fleet Manual #80,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+311,Golan III Space Station,39,231,TIE Fighter,Platform,Fleet Manual #82,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+312,Golan II Space Station,39,231,TIE Fighter,Platform,Fleet Manual #81,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+313,Imperial Research Center,54,231,TIE Fighter,Platform,Fleet Manual #83,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+314,Industrial Complex,54,231,TIE Fighter,Platform,Fleet Manual #84,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+315,Naval Base,39,231,TIE Fighter,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/2/2013,1,No,0,0,0
+316,Naval Defence Platform,31,231,TIE Fighter,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/3/2009,3/3/2009,1,No,0,1,0
+317,Pirate Ship Yard,54,231,TIE Fighter,Platform,Fleet Manual #89,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/4/2013,1,No,0,0,0
+318,Processing Plant,54,231,TIE Fighter,Platform,Fleet Manual #85,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/4/2013,1,No,0,0,0
+319,Rebel Platform,39,231,TIE Fighter,Platform,Fleet Manual #86,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/4/2013,1,No,0,0,1
+320,Rotonda Platform,39,231,TIE Fighter,Platform,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/3/2009,3/3/2009,1,No,0,0,0
+321,Space Colony 1,54,231,TIE Fighter,Platform,Fleet Manual #92,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/5/2013,1,No,0,0,0
+322,Space Colony 2,54,231,TIE Fighter,Platform,Fleet Manual #93,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/5/2013,1,No,0,0,0
+323,Space Colony 3 ,54,231,TIE Fighter,Platform,Fleet Manual #94,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/5/2013,1,No,0,0,0
+324,Bulk Cruiser,39,231,TIE Fighter,Capship,Fleet Manual #151,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/27/2013,1,No,0,0,1
+325,Doomsday Corvette,31,231,TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/3/2009,3/3/2009,1,No,0,0,0
+326,Dreadnaught Mk.II,31,231,TIE Fighter,Capship,Fleet Manual #114,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,1
+327,Dungeon Ship,39,231,TIE Fighter,Capship,Fleet Manual #147,COL Kermee,LT JMRabid,LT JMRabid,3/3/2009,3/3/2009,1,No,0,0,1
+328,Enforcer Picket Ship,39,231,TIE Fighter,Capship,Fleet Manual #115,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/28/2013,1,No,0,0,1
+329,Imperial Research Ship,39,231,TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,1,0
+330,Imperial II-class Star Destroyer,31,231,TIE Fighter,Capship,Fleet Manual #142,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+331,Lancer-class Frigate,31,231,TIE Fighter,Capship,Fleet Manual #153,HA Ender mBind,CPT Tim,CPT Tim,3/2/2009,10/31/2013,1,No,0,0,0
+332,Marauder-class Corvette,31,231,TIE Fighter,Capship,Fleet Manual #117,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+333,MC80a Calamari Cruiser,39,231,TIE Fighter,Capship,Fleet Manual #149,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+334,Modified Strike-class Cruiser,51,231,TIE Fighter,Capship,,HA Ender mBind,CPT Tim,HA Ender mBind,3/2/2009,11/1/2013,1,No,0,0,1
+335,Modular Task Force Cruiser,39,231,TIE Fighter,Capship,Fleet Manual #155,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/3/2009,3/3/2009,1,No,0,0,0
+336,Star Galleon,31,231,TIE Fighter,Capship,Fleet Manual #152,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/5/2013,1,No,0,0,0
+337,Torpedo Sphere,39,231,TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/3/2009,3/3/2009,1,No,0,0,0
+338,Venator-class Star Destroyer,31,231,TIE Fighter,Capship,,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,11/5/2013,1,No,0,0,0
+339,Victory II-class Star Destroyer,31,231,TIE Fighter,Capship,Fleet Manual #158,HA Ender mBind,N/A,N/A,3/2/2009,11/9/2013,1,No,0,0,0
+340,Winged Calamari Cruiser,31,231,TIE Fighter,Capship,Fleet Manual #150,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/2/2009,10/31/2013,1,No,0,0,0
+341,MC90 Calamari Cruiser,31,231,TIE Fighter,Capship,Fleet Manual #143,HA Ender mBind,JM,JM,3/2/2009,10/31/2013,1,No,0,0,0
+342,Repair Yard,31,231,TIE Fighter,Platform,Fleet Manual #87,HA Ender mBind,N/A,N/A,3/2/2009,11/4/2013,1,No,0,0,2
+343,Shipyard,54,231,TIE Fighter,Platform,Fleet Manual #88,HA Ender mBind,N/A,N/A,3/3/2009,3/3/2009,0,No,0,0,1
+344,Fly Rebel Fighters,n/a,231,TIE Fighter,General,,HA Ender mBind,N/A,HA Ender mBind,3/6/2009,11/1/2012,7,Yes,0,0,44
+345,Fly Transports,n/a,231,TIE Fighter,General,,COL Den Darkhill,N/A,HA Ender mBind,3/7/2009,11/1/2012,7,Yes,0,0,8
+346,EH Ship Patch for TIE CD,n/a,n/a,TIE Fighter,General,,HA Ender mBind,N/A,HA Ender mBind,3/6/2009,4/27/2014,13,Yes,0,2,0
+347,K-20b Advanced Missile Boat (CD),12,346,TIE Fighter,Fighter,,CM Var Zoraan,N/A,N/A,3/8/2009,3/13/2009,1,No,0,0,0
+348,Fly Rebel Fighters (CD),n/a,346,TIE Fighter,General,,HA Ender mBind,N/A,HA Ender mBind,3/8/2009,11/1/2012,7,Yes,0,0,0
+349,Fly Transports (CD),n/a,346,TIE Fighter,General,,HA Ender mBind,N/A,HA Ender mBind,3/8/2009,11/1/2012,7,Yes,0,0,0
+350,A-9 Vigilance Interceptor (CD),11,346,TIE Fighter,Fighter,Fleet Manual #137,HA Ender mBind,N/A,N/A,3/8/2009,3/13/2009,1,No,0,0,0
+351,Cloakshape Fighter (CD),10,346,TIE Fighter,Fighter,Fleet Manual #13,CM Var Zoraan,N/A,N/A,3/10/2009,3/13/2009,1,No,0,0,0
+352,Phalanx Interceptor Gunboat (CD),10,346,TIE Fighter,Fighter,Fleet Manual #139,CM Var Zoraan,N/A,N/A,3/10/2009,3/13/2009,1,Yes,0,0,0
+353,TIE Guardian (CD),11,346,TIE Fighter,Fighter,Fleet Manual #136,CM Var Zoraan,N/A,N/A,3/10/2009,10/31/2012,1,No,0,0,0
+354,Fly Imperial Fighters and Transports,n/a,n/a,X-Wing,General,,HA Ender mBind,N/A,N/A,3/10/2009,11/1/2012,7,No,0,0,2
+355,Asteroid Hangar (Disk),n/a,n/a,TIE Fighter,Platform,,unknown,N/A,N/A,3/12/2009,3/12/2009,1,No,0,0,0
+356,TIE Dragon (CD),11,346,TIE Fighter,Fighter,Fleet Manual #132,COL Kermee,N/A,N/A,3/12/2009,11/8/2013,1,No,0,0,0
+357,TIE Experimental Mk.I (CD),11,346,TIE Fighter,Fighter,Fleet Manual #11,HA Ender mBind,N/A,N/A,3/12/2009,11/8/2013,0,No,0,0,0
+358,TIE Praetor (CD),11,346,TIE Fighter,Fighter,Fleet Manual #138,COL Kermee,COL Kermee,HA Ender mBind,3/12/2009,11/8/2013,1,Yes,0,0,0
+359,TIE Scimitar Assault Bomber Mk.III (CD),11,346,TIE Fighter,Fighter,Fleet Manual #135,COL Kermee,N/A,N/A,3/12/2009,11/9/2013,1,No,0,0,0
+360,Toscan Fighter (CD),10,346,TIE Fighter,Fighter,Fleet Manual #15,HA Ender mBind,N/A,N/A,3/12/2009,11/9/2013,1,No,0,1,0
+361,V-Wing Mk.II (CD),10,346,TIE Fighter,Fighter,Fleet Manual #159,HA Ender mBind,N/A,HA Ender mBind,3/12/2009,11/9/2013,1,Yes,0,0,0
+362,Modified Strike-class Cruiser (CD),51,346,TIE Fighter,Capship,,HA Ender mBind,N/A,N/A,3/12/2009,11/1/2013,1,No,0,0,0
+363,CR-20 Troop Carrier,39,8,X-Wing vs. TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,6/3/2010,6/6/2010,1,No,0,0,0
+364,CR-20 Troop Carrier,39,9,XvT - Balance of Power,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,6/3/2010,6/3/2010,1,No,0,0,0
+365,Diamond-class Cruiser,39,8,X-Wing vs. TIE Fighter,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,6/5/2010,11/5/2013,1,No,0,0,0
+366,Diamond-class Cruiser,39,9,XvT - Balance of Power,Transport,,HA Ender mBind,HA Ender mBind,HA Ender mBind,6/5/2010,11/5/2013,1,No,0,0,0
+367,Astatine-class Tug,215,n/a,X-Wing Alliance,Utility,,HA Ender mBind,COL Den Darkhill,COL Den Darkhill,11/14/2001,10/31/2013,1,No,0,2,1
+368,MC90 Calamari Cruiser,186,n/a,X-Wing Alliance,Capship,Fleet Manual #143,COL Kermee,JM,JM,10/22/2000,10/31/2013,1,No,0,1,17
+369,Dungeon Ship,187,n/a,X-Wing Alliance,Capship,Fleet Manual #147,COL Den Darkhill,LT JMRabid,LT JMRabid,5/12/2001,10/30/2012,1,No,0,0,5
+370,Dreadnaught Mk.I,215,n/a,X-Wing Alliance,Capship,Fleet Manual #128,HA Ender mBind,HA Ender mBind,HA Ender mBind,9/24/2004,10/31/2013,1,No,0,0,5
+371,Enforcer Picket Ship,219,n/a,X-Wing Alliance,Capship,Fleet Manual #115,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/16/2004,10/28/2013,1,No,0,0,1
+372,Eclipse-class S. Star Destroyer Mk.II,219,n/a,X-Wing Alliance,Capship,Fleet Manual #141,COL Den Darkhill,JM,JM,7/6/2001,10/31/2013,1,No,0,1,0
+373,Eclipse-class S. Star Destroyer Mk.I,218,n/a,X-Wing Alliance,Capship,,COL Den Darkhill,Dreddnott,Dreddnott,7/6/2001,10/31/2013,1,No,0,0,0
+374,E-Wing,196,n/a,X-Wing Alliance,Fighter,Fleet Manual #140,unknown,FA Xavier Sienar,FA Xavier Sienar,4/18/2004,11/8/2013,1,No,0,0,0
+375,Hyperion Interceptor Gunboat,201,n/a,X-Wing Alliance,Fighter,Fleet Manual #107,HA Ender mBind,HA Ender mBind,COL Den Darkhill,4/18/2004,10/30/2012,1,No,0,0,2
+376,I-7 Howlrunner,197,n/a,X-Wing Alliance,Fighter,Fleet Manual #104,COL Den Darkhill,JM,JM,10/26/2000,10/31/2013,1,No,0,0,0
+377,Interceptor Enforcement Ship,200,n/a,X-Wing Alliance,Fighter,Fleet Manual #102,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/18/2004,10/30/2012,1,No,0,0,1
+378,Imperial Shuttle Pod Mk.VI,198,n/a,X-Wing Alliance,Utility,Fleet Manual #90,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/17/2004,10/31/2013,1,No,0,0,1
+379,Imperial Troop Transport,216,n/a,X-Wing Alliance,Transport,Fleet Manual #103,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/20/2004,10/30/2012,1,No,0,0,0
+380,M/FRT the Luggage,218,n/a,X-Wing Alliance,Freighter,Fleet Manual #2,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/11/2004,10/30/2012,1,No,0,0,1
+381,Tactical Gunboat,203,n/a,X-Wing Alliance,Fighter,Fleet Manual #130,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/18/2004,10/30/2012,1,No,0,0,0
+382,Modified Strike-class Cruiser,92,n/a,X-Wing Alliance,Capship,,HA Ender mBind,CPT Tim,CPT Tim,10/29/2012,11/1/2013,1,No,0,0,5
+383,Pursuer Enforcement Ship (EH),n/a,n/a,X-Wing Alliance,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/19/2003,11/4/2013,1,No,0,0,1
+384,Phalanx Interceptor Gunboat,195,n/a,X-Wing Alliance,Fighter,Fleet Manual #139,HA Ender mBind,HA Ender mBind,HA Ender mBind,3/30/2001,10/31/2012,1,No,0,0,1
+385,Sovereign-class Super Star Destroyer,185,n/a,X-Wing Alliance,Capship,Fleet Manual #144,COL Kermee,Drakken,Drakken,4/17/2004,11/4/2013,1,No,0,0,10
+386,Spectre Advanced Missile Boat,188,n/a,X-Wing Alliance,Fighter,Fleet Manual #108,HA Ender mBind,HA Ender mBind,HA Ender mBind,7/6/2000,10/31/2012,1,No,0,0,0
+387,Shadow-class Y-Wing,199,n/a,X-Wing Alliance,Fighter,Fleet Manual #131,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/17/2004,11/4/2013,1,No,0,0,0
+388,TIE Assault,202,n/a,X-Wing Alliance,Fighter,Fleet Manual #9,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/19/2004,11/7/2013,1,No,0,0,0
+389,TIE Drone,208,n/a,X-Wing Alliance,Fighter,Fleet Manual #39,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/19/2004,11/8/2013,1,No,1,0,2
+390,TIE Dragon,191,n/a,X-Wing Alliance,Fighter,Fleet Manual #132,HA Ender mBind,MJT,MJT,12/6/2000,11/8/2013,1,No,0,0,2
+391,Modular Task Force Cruiser,217,n/a,X-Wing Alliance,Capship,Fleet Manual #155,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/16/2004,10/31/2012,1,No,0,0,3
+392,TIE Guardian,190,n/a,X-Wing Alliance,Fighter,Fleet Manual #136,COL Kermee,MJT,MJT,11/19/2000,10/31/2012,1,No,0,0,1
+393,Toscan Fighter (EH),n/a,n/a,X-Wing Alliance,Fighter,Fleet Manual #15,HA Ender mBind,HA Ender mBind,HA Ender mBind,2/28/2003,11/9/2013,1,No,0,0,3
+394,TIE Phantom,192,n/a,X-Wing Alliance,Fighter,Fleet Manual #125,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/18/2004,11/7/2013,1,No,0,0,0
+395,TIE Protector,184,n/a,X-Wing Alliance,Fighter,Fleet Manual #129,HA Ender mBind,HA Ender mBind,HA Ender mBind,1/12/2001,11/8/2013,1,No,0,0,1
+396,TIE Praetor,189,n/a,X-Wing Alliance,Fighter,Fleet Manual #138,COL Kermee,HA Ender mBind,HA Ender mBind,10/22/2000,11/8/2013,1,No,0,0,9
+397,Trithan Interceptor,217,n/a,X-Wing Alliance,Fighter,,COL Den Darkhill,COL Den Darkhill,HA Ender mBind,10/4/2002,11/9/2013,1,No,0,0,2
+398,TIE Raptor,205,n/a,X-Wing Alliance,Fighter,Fleet Manual #105,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/22/2004,11/9/2013,1,No,0,0,1
+399,TIE Scimitar Assault Bomber Mk.III,193,n/a,X-Wing Alliance,Fighter,Fleet Manual #135,HA Ender mBind,unknown,unknown,7/6/2000,11/9/2013,1,No,0,0,1
+400,TIE Vanguard,194,n/a,X-Wing Alliance,Fighter,Fleet Manual #10,COL Den Darkhill,HA Ender mBind,HA Ender mBind,1/3/2002,10/31/2012,1,No,0,0,0
+401,TIE Advanced x1 ,204,n/a,X-Wing Alliance,Fighter,Fleet Manual #127,HA Ender mBind,HA Ender mBind,HA Ender mBind,10/19/2003,11/7/2013,1,No,0,0,1
+402,TIE Sentinel/V38,215,n/a,X-Wing Alliance,Fighter,,HA Ender mBind,HA Ender mBind,HA Ender mBind,4/9/2004,11/7/2013,1,No,0,0,1
+403,V-Wing Mk.II,209,n/a,X-Wing Alliance,Fighter,Fleet Manual #159,HA Ender mBind,HA Ender mBind,HA Ender mBind,9/29/2004,11/9/2013,1,No,0,0,1
+404,E-Wing (CD),n/a,n/a,X-Wing,Fighter,Fleet Manual #140,Dogger,Mutt,Mutt,9/19/1994,11/8/2013,1,No,0,0,1
+405,K-Wing (CD),n/a,n/a,X-Wing,Fighter,,Dogger,Dogger,Dogger,9/19/1994,10/31/2013,1,No,0,0,0
+406,S-Foils Patch,n/a,n/a,X-Wing Alliance,General,,COL Den Darkhill,N/A,N/A,12/8/2000,3/9/2016,0,No,1,2,0
+407,High Resolution fonts for NVIDIA,n/a,n/a,X-Wing Alliance,General,,Harrier Brayer,N/A,N/A,11/30/2004,11/1/2012,0,No,0,0,0
+408,X-Wing '95 Compatibility Fix,n/a,n/a,X-Wing,General,,Cwagle The Jedi,,,7/26/2004,11/1/2012,0,No,0,0,0
+409,XWAHacker (disappearing objects),n/a,n/a,X-Wing Alliance,General,,Reimar Döffinger,N/A,N/A,11/6/2011,11/1/2012,0,No,0,0,0
+410,Emperor's Hammer Crest,n/a,n/a,X-Wing Alliance,General,,COL Kermee,N/A,LC Tempest,1/1/2001,11/2/2012,0,No,1,0,16
+411,Melee patch for XvT (multiplayer),n/a,n/a,X-Wing vs. TIE Fighter,General,,unknown,N/A,N/A,9/11/2008,4/27/2014,0,No,0,0,0
