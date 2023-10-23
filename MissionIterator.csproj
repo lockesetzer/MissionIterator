@@ -9,9 +9,6 @@
     <Reference Include="Idmr.Common">
       <HintPath>..\..\..\..\..\Editors\YOGEME_v1.13.12\bin\Idmr.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Idmr.Platform">
-      <HintPath>..\..\..\..\..\Editors\YOGEME_v1.13.12\bin\Idmr.Platform.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
   <ItemGroup>
